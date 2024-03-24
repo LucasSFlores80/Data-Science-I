@@ -1,4 +1,13 @@
 Selección de Datasets
+
 Opción 1: Producción de Carne Bovina en Argentina
-Variables a estudiar: Producción o cabezas de ganado por provincia, departamentos. Se puede estudiar la eficiencia del cuidado del ganado, los costos de producción y mantenimiento
-Archivo: CSV (23 columnas, 2599 filas)
+Variables a estudiar: Producción o cabezas de ganado por provincia, departamentos. Se puede estudiar la eficiencia del cuidado del ganado, los costos de producción y mantenimiento, etc.
+Archivo: produccion-de-carne-bovina.csv (23 columnas, 2599 filas)
+Fuente: https://www.kaggle.com/datasets/anggyelarez/produccin-de-carne-bovina-en-argentina
+
+Opción 2: Número de Muertes por Factores de Riesgo en el mundo
+Variables a estudiar: Mayor incidencia de muertes por factor, por país y año, mayores factores de riesgo de muerte en el mundo por año, factores de riesgo por año, continentes o zonas (américa latina, norteamérica, etc).
+De acuerdo a esos factores de riesgo poder predecir por país o zona geográfica estrategias para su disminución (¿o me estoy adelantando?)
+Archivo: number-of-deaths-by-risk-factor.csv (31 columnas, 6841 filas)
+Fuente: https://www.kaggle.com/datasets/muhammadumairab/number-of-deaths-by-risk-factor
+
