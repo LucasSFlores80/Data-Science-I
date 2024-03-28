@@ -11,3 +11,8 @@ De acuerdo a esos factores de riesgo poder predecir por país o zona geográfica
 Archivo: number-of-deaths-by-risk-factor.csv (31 columnas, 6841 filas)
 Fuente: https://www.kaggle.com/datasets/muhammadumairab/number-of-deaths-by-risk-factor
 
+Opción 3: Número de Escuelas en la República Argentina
+Variables a estudiar: Cantidad de escuelas por provincia, por departamento. Tipos de escuela (bachiller, técnica, etc). Se puede hacer un estudio del tipo de institución de acuerdo al desarrollo económico de la zona.
+(por ejemplo en Bariloche está Centro Atómico e INVAP y poca oferta de escuelas técnicas). Habría que asociar este csv con otro que contenga la información de los tipos de industrias, empleos o desarrollo económico de las distintas zonas
+Archivo: escuelas.csv (25 columnas, 63095 filas)
+Fuente: https://www.kaggle.com/datasets/correntino/escuelas-argentinas
